@@ -1,5 +1,5 @@
 # AOC 2023
 
 ```sh
-cargo r -p day-01 --bin part-1
+cargo r -p day-01 --bin part1
 ```
